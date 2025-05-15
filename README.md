@@ -1,1 +1,103 @@
-# ML_Learning
+# 🤖 ML Model Zoo: A Learning Repository
+
+Welcome to the **ML Model Zoo** – a collection of machine learning models trained and tested on various datasets, curated and developed as part of a hands-on journey to learn, understand, and master applied machine learning.
+
+This repository is **not about production-ready code**, but about **learning-by-doing**. Each folder represents a different mini-project with its own model, dataset, and experimentation approach.
+
+
+## 🧠 What's Inside?
+
+This repo currently contains **5 different ML models**, each inside its own folder, including all code for:
+
+- **Data Preprocessing**
+- **Model Training**
+- **Testing & Evaluation**
+- **Visualization (when applicable)**
+- **Experimentation Notes**
+
+
+## 📂 Folder Structure
+
+
+
+
+> 📌 *Each folder contains its own README for model-specific details.*
+
+
+## 🎯 Why This Repo Exists
+
+The goal of this repo is simple:
+> **To build, break, analyze, and understand machine learning models through real-world datasets.**
+
+Rather than focusing on perfect results, the focus is on:
+- Clean code
+- Reproducibility
+- Learning from mistakes
+- Understanding evaluation metrics
+- Experimenting with different algorithms
+
+
+## 📈 Models Trained So Far
+
+| Project               | Type           | Algorithms Used                     | Dataset Size |
+|-----------------------|----------------|-------------------------------------|--------------|
+| Wine Quality          | Regression     | Linear Regression                   | 1,599 rows   |
+| Iris Classification   | Classification | Logistic Regression, SVM            | 150 rows     |
+| House Price Prediction| Regression     | Decision Trees                      | 1,460 rows   |
+| Diabetes Prediction   | Classification | Random Forest, Logistic Regression  | 768 rows     |
+| Student Performance   | Regression     | Linear Regression, Ridge            | 395 rows     |
+
+
+## 🛠 Tech Stack
+
+- **Python 3.x**
+- **Scikit-learn**
+- **Pandas**
+- **Matplotlib / Seaborn**
+- **Jupyter Notebook** or Python scripts
+
+---
+
+## ✅ How to Use
+
+1. Clone this repository:
+    ```bash
+    git clone https://github.com/dipen-26/ML_Learning.git
+    cd ml-model-zoo
+    ```
+
+2. Navigate to any folder:
+    ```bash
+    cd winequality/
+    ```
+
+3. Open the notebook or run the script to explore the model:
+    ```bash
+    jupyter notebook
+    # or
+    python model.py
+    ```
+
+
+## 🚀 What's Next?
+
+- Add more models like **KNN**, **XGBoost**, and **Neural Networks**
+- Include **streamlit dashboards** for selected models
+- Upload interactive **visualizations** and **feature analysis**
+
+
+## 🙋‍♂️ Author
+
+Made with ❤️ and curiosity by **Your Name**  
+📫 [GitHub](https://github.com/dipen-26) | [LinkedIn](https://www.linkedin.com/in/dipen-sejpal-28753a2b0/) | [Email](dipen.sejpal26@gmail.com)
+
+
+## 📄 License
+
+MIT License — feel free to use for learning and personal projects.
+
+
+## 🌟 Star This Repo
+
+If you found this helpful or inspiring, a ⭐️ would mean a lot!
+
