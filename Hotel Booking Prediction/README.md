@@ -1,14 +1,9 @@
-Based on your provided dataset sample, here’s an updated and well-written `README.md` file tailored to your **Hotel Booking Status Prediction** project using K-Nearest Neighbors (KNN). This version reflects a human touch, with realistic assumptions drawn from the dataset structure.
-
----
-
 # 🏨 Hotel Booking Status Prediction using KNN
 
 ## 📌 Objective
 
 The aim of this project is to **predict whether a hotel booking will be canceled or not** using the **K-Nearest Neighbors (KNN)** classification algorithm. The model helps hotels proactively manage bookings, reduce last-minute cancellations, and optimize room availability.
 
----
 
 ## 📊 Dataset Overview
 
@@ -35,7 +30,6 @@ avg_price_per_room,no_of_special_requests,booking_status
 * **Target Variable**:
   `booking_status` (`Canceled` or `Not_Canceled`)
 
----
 
 ## 🧹 Data Preprocessing
 
@@ -45,7 +39,6 @@ To prepare the data for training:
 * The **target variable** (`booking_status`) is **Label Encoded** (e.g., `Canceled = 1`, `Not_Canceled = 0`)
 * **Numerical features** are **scaled** using StandardScaler to ensure all variables contribute equally to distance calculations
 
----
 
 ## 🧪 Model Training
 
@@ -62,7 +55,6 @@ To prepare the data for training:
   * Explored `k` values from **1 to 20**
   * Selected the `k` value that gave the **highest accuracy**
 
----
 
 ## 📈 Final Model Evaluation
 
@@ -71,7 +63,6 @@ The best model is:
 * Trained using the optimal `k`
 * Evaluated on the test set using **accuracy**, **confusion matrix**, and optionally **precision/recall/F1-score**
 
----
 
 ## 🎯 Prediction Goal
 
@@ -86,7 +77,6 @@ This can help hotels:
 * Improve resource planning
 * Offer personalized retention strategies for likely-to-cancel guests
 
----
 
 ## 🛠️ Tools & Libraries
 
@@ -95,14 +85,9 @@ This can help hotels:
 * scikit-learn (for model training, preprocessing, evaluation)
 * matplotlib / seaborn (for visualizations)
 
----
 
 ## ✅ Results
 
 * Achieved optimal accuracy with tuned KNN
 * Model makes reliable predictions on unseen data
 * Balanced approach between model simplicity and predictive power
-
----
-
-Let me know if you’d like this to include a **performance table**, **visual graphs**, or **code snippets** to enhance documentation further.
