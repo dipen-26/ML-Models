@@ -78,7 +78,7 @@ Rather than focusing on perfect results, the focus is on:
 ## 🙋‍♂️ Author
 
 Made with ❤️ and curiosity by **Dipen Sejpal**  
-📫 [GitHub](https://github.com/dipen-26) | [LinkedIn](https://www.linkedin.com/in/dipen-sejpal-28753a2b0/) | [Email](dipen.sejpal26@gmail.com)
+📫 [GitHub](https://github.com/dipen-26) | [LinkedIn](https://www.linkedin.com/in/dipen-sejpal-28753a2b0/) | dipen.sejpal26@gmail.com
 
 ---
 
