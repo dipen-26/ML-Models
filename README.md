@@ -4,6 +4,7 @@ Welcome to the **ML Model Zoo** – a collection of machine learning models trai
 
 This repository is **not about production-ready code**, but about **learning-by-doing**. Each folder represents a different mini-project with its own model, dataset, and experimentation approach.
 
+---
 
 ## 🧠 What's Inside?
 
@@ -15,11 +16,7 @@ This repo currently contains **5 different ML models**, each inside its own fold
 - **Visualization (when applicable)**
 - **Experimentation Notes**
 
-
-## 📂 Folder Structure
-
-
-
+---
 
 > 📌 *Each folder contains its own README for model-specific details.*
 
@@ -36,17 +33,7 @@ Rather than focusing on perfect results, the focus is on:
 - Understanding evaluation metrics
 - Experimenting with different algorithms
 
-
-## 📈 Models Trained So Far
-
-| Project               | Type           | Algorithms Used                     | Dataset Size |
-|-----------------------|----------------|-------------------------------------|--------------|
-| Wine Quality          | Regression     | Linear Regression                   | 1,599 rows   |
-| Iris Classification   | Classification | Logistic Regression, SVM            | 150 rows     |
-| House Price Prediction| Regression     | Decision Trees                      | 1,460 rows   |
-| Diabetes Prediction   | Classification | Random Forest, Logistic Regression  | 768 rows     |
-| Student Performance   | Regression     | Linear Regression, Ridge            | 395 rows     |
-
+---
 
 ## 🛠 Tech Stack
 
@@ -78,6 +65,7 @@ Rather than focusing on perfect results, the focus is on:
     python model.py
     ```
 
+---
 
 ## 🚀 What's Next?
 
@@ -85,17 +73,20 @@ Rather than focusing on perfect results, the focus is on:
 - Include **streamlit dashboards** for selected models
 - Upload interactive **visualizations** and **feature analysis**
 
+---
 
 ## 🙋‍♂️ Author
 
 Made with ❤️ and curiosity by **Your Name**  
 📫 [GitHub](https://github.com/dipen-26) | [LinkedIn](https://www.linkedin.com/in/dipen-sejpal-28753a2b0/) | [Email](dipen.sejpal26@gmail.com)
 
+---
 
 ## 📄 License
 
 MIT License — feel free to use for learning and personal projects.
 
+---
 
 ## 🌟 Star This Repo
 
