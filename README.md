@@ -49,13 +49,13 @@ Rather than focusing on perfect results, the focus is on:
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/dipen-26/ML_Learning.git
+    git clone https://github.com/dipen-26/ML-Model-Zoo.git
     cd ml-model-zoo
     ```
 
 2. Navigate to any folder:
     ```bash
-    cd winequality/
+    cd foldername/
     ```
 
 3. Open the notebook or run the script to explore the model:
@@ -77,7 +77,7 @@ Rather than focusing on perfect results, the focus is on:
 
 ## 🙋‍♂️ Author
 
-Made with ❤️ and curiosity by **Your Name**  
+Made with ❤️ and curiosity by **Dipen Sejpal**  
 📫 [GitHub](https://github.com/dipen-26) | [LinkedIn](https://www.linkedin.com/in/dipen-sejpal-28753a2b0/) | [Email](dipen.sejpal26@gmail.com)
 
 ---
