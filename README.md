@@ -1,6 +1,6 @@
-# 🤖 ML Model Zoo: A Learning Repository
+# 🤖 ML Models : A Learning Repository
 
-Welcome to the **ML Model Zoo** – a collection of machine learning models trained and tested on various datasets, curated and developed as part of a hands-on journey to learn, understand, and master applied machine learning.
+Welcome to the **ML Models** – a collection of machine learning models trained and tested on various datasets, curated and developed as part of a hands-on journey to learn, understand, and master applied machine learning.
 
 This repository is **not about production-ready code**, but about **learning-by-doing**. Each folder represents a different mini-project with its own model, dataset, and experimentation approach.
 
@@ -49,8 +49,8 @@ Rather than focusing on perfect results, the focus is on:
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/dipen-26/ML-Model-Zoo.git
-    cd ml-model-zoo
+    git clone https://github.com/dipen-26/ML-Models.git
+    cd ml-models
     ```
 
 2. Navigate to any folder:
